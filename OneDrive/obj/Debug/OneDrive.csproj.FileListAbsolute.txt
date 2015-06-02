@@ -1,0 +1,116 @@
+c:\users\user\documents\visual studio 2013\Projects\OneDrive\OneDrive\bin\Debug\OneDrive.exe.config
+c:\users\user\documents\visual studio 2013\Projects\OneDrive\OneDrive\bin\Debug\OneDrive.exe
+c:\users\user\documents\visual studio 2013\Projects\OneDrive\OneDrive\bin\Debug\OneDrive.pdb
+c:\users\user\documents\visual studio 2013\Projects\OneDrive\OneDrive\bin\Debug\Microsoft.Live.dll
+c:\users\user\documents\visual studio 2013\Projects\OneDrive\OneDrive\obj\Debug\OneDrive.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\OneDrive\OneDrive\obj\Debug\OneDrive.Main.resources
+c:\users\user\documents\visual studio 2013\Projects\OneDrive\OneDrive\obj\Debug\OneDrive.MyBrowser.resources
+c:\users\user\documents\visual studio 2013\Projects\OneDrive\OneDrive\obj\Debug\OneDrive.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\OneDrive\OneDrive\obj\Debug\OneDrive.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\OneDrive\OneDrive\obj\Debug\OneDrive.exe
+c:\users\user\documents\visual studio 2013\Projects\OneDrive\OneDrive\obj\Debug\OneDrive.pdb
+C:\Users\Сергей\Documents\OneDrive-21.04-master\OneDrive\bin\Debug\OneDrive.exe.config
+C:\Users\Сергей\Documents\OneDrive-21.04-master\OneDrive\obj\Debug\OneDrive.exe
+C:\Users\Сергей\Documents\OneDrive-21.04-master\OneDrive\obj\Debug\OneDrive.pdb
+C:\Users\Сергей\Documents\OneDrive-21.04-master\OneDrive\bin\Debug\OneDrive.exe
+C:\Users\Сергей\Documents\OneDrive-21.04-master\OneDrive\bin\Debug\OneDrive.pdb
+C:\Users\Сергей\Documents\OneDrive-21.04-master\OneDrive\bin\Debug\Microsoft.Live.dll
+C:\Users\Сергей\Documents\OneDrive-21.04-master\OneDrive\obj\Debug\OneDrive.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Documents\OneDrive-21.04-master\OneDrive\obj\Debug\OneDrive.Main.resources
+C:\Users\Сергей\Documents\OneDrive-21.04-master\OneDrive\obj\Debug\OneDrive.MyBrowser.resources
+C:\Users\Сергей\Documents\OneDrive-21.04-master\OneDrive\obj\Debug\OneDrive.Properties.Resources.resources
+C:\Users\Сергей\Documents\OneDrive-21.04-master\OneDrive\obj\Debug\OneDrive.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\OneDrive-23.04-master\OneDrive\bin\Debug\OneDrive.exe.config
+C:\Users\User\Downloads\OneDrive-23.04-master\OneDrive\obj\Debug\OneDrive.exe
+C:\Users\User\Downloads\OneDrive-23.04-master\OneDrive\obj\Debug\OneDrive.pdb
+C:\Users\User\Downloads\OneDrive-23.04-master\OneDrive\obj\Debug\OneDrive.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\OneDrive-23.04-master\OneDrive\obj\Debug\OneDrive.Main.resources
+C:\Users\User\Downloads\OneDrive-23.04-master\OneDrive\obj\Debug\OneDrive.MyBrowser.resources
+C:\Users\User\Downloads\OneDrive-23.04-master\OneDrive\obj\Debug\OneDrive.Properties.Resources.resources
+C:\Users\User\Downloads\OneDrive-23.04-master\OneDrive\obj\Debug\OneDrive.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\OneDrive-23.04-master\OneDrive\bin\Debug\OneDrive.exe
+C:\Users\User\Downloads\OneDrive-23.04-master\OneDrive\bin\Debug\OneDrive.pdb
+C:\Users\User\Downloads\OneDrive-23.04-master\OneDrive\bin\Debug\Microsoft.Live.dll
+C:\Users\User\Downloads\OneDrive-23.04-master\OneDrive\obj\Debug\OneDrive.CreateSecurity.resources
+C:\Users\User\Downloads\OneDrive-23.04-master\OneDrive\obj\Debug\OneDrive.OpenSecurity.resources
+C:\Users\Сергей\Documents\OneDrive-8.05-master\OneDrive\bin\Debug\OneDrive.exe.config
+C:\Users\Сергей\Documents\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.exe
+C:\Users\Сергей\Documents\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.pdb
+C:\Users\Сергей\Documents\OneDrive-8.05-master\OneDrive\bin\Debug\OneDrive.exe
+C:\Users\Сергей\Documents\OneDrive-8.05-master\OneDrive\bin\Debug\OneDrive.pdb
+C:\Users\Сергей\Documents\OneDrive-8.05-master\OneDrive\bin\Debug\Microsoft.Live.dll
+C:\Users\Сергей\Documents\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Documents\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.CreateSecurity.resources
+C:\Users\Сергей\Documents\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.Main.resources
+C:\Users\Сергей\Documents\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.MyBrowser.resources
+C:\Users\Сергей\Documents\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.Properties.Resources.resources
+C:\Users\Сергей\Documents\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.OpenSecurity.resources
+C:\Users\Сергей\Documents\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\OneDrive-8.05-master\OneDrive\bin\Debug\OneDrive.exe.config
+C:\Users\User\Downloads\OneDrive-8.05-master\OneDrive\bin\Debug\OneDrive.exe
+C:\Users\User\Downloads\OneDrive-8.05-master\OneDrive\bin\Debug\OneDrive.pdb
+C:\Users\User\Downloads\OneDrive-8.05-master\OneDrive\bin\Debug\Microsoft.Live.dll
+C:\Users\User\Downloads\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.CreateSecurity.resources
+C:\Users\User\Downloads\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.Main.resources
+C:\Users\User\Downloads\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.MyBrowser.resources
+C:\Users\User\Downloads\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.Properties.Resources.resources
+C:\Users\User\Downloads\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.OpenSecurity.resources
+C:\Users\User\Downloads\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.exe
+C:\Users\User\Downloads\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.pdb
+C:\Users\Сергей\Downloads\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\bin\Debug\OneDrive.exe.config
+C:\Users\Сергей\Downloads\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.exe
+C:\Users\Сергей\Downloads\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.pdb
+C:\Users\Сергей\Downloads\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\bin\Debug\OneDrive.exe
+C:\Users\Сергей\Downloads\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\bin\Debug\OneDrive.pdb
+C:\Users\Сергей\Downloads\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\bin\Debug\Microsoft.Live.dll
+C:\Users\Сергей\Downloads\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Downloads\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.CreateSecurity.resources
+C:\Users\Сергей\Downloads\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.Main.resources
+C:\Users\Сергей\Downloads\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.MyBrowser.resources
+C:\Users\Сергей\Downloads\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.Properties.Resources.resources
+C:\Users\Сергей\Downloads\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.OpenSecurity.resources
+C:\Users\Сергей\Downloads\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\bin\Debug\OneDrive.exe.config
+C:\Users\User\Downloads\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.exe
+C:\Users\User\Downloads\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.pdb
+C:\Users\User\Downloads\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\bin\Debug\OneDrive.exe
+C:\Users\User\Downloads\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\bin\Debug\OneDrive.pdb
+C:\Users\User\Downloads\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\bin\Debug\Microsoft.Live.dll
+C:\Users\User\Downloads\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.CreateSecurity.resources
+C:\Users\User\Downloads\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.Main.resources
+C:\Users\User\Downloads\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.MyBrowser.resources
+C:\Users\User\Downloads\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.Properties.Resources.resources
+C:\Users\User\Downloads\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.OpenSecurity.resources
+C:\Users\User\Downloads\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.csproj.GenerateResource.Cache
+C:\Users\Сергей\Downloads\OneDrive-13_05-master\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\bin\Debug\OneDrive.exe.config
+C:\Users\Сергей\Downloads\OneDrive-13_05-master\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.exe
+C:\Users\Сергей\Downloads\OneDrive-13_05-master\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.pdb
+C:\Users\Сергей\Downloads\OneDrive-13_05-master\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\bin\Debug\OneDrive.exe
+C:\Users\Сергей\Downloads\OneDrive-13_05-master\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\bin\Debug\OneDrive.pdb
+C:\Users\Сергей\Downloads\OneDrive-13_05-master\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\bin\Debug\Microsoft.Live.dll
+C:\Users\Сергей\Downloads\OneDrive-13_05-master\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Downloads\OneDrive-13_05-master\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.CreateSecurity.resources
+C:\Users\Сергей\Downloads\OneDrive-13_05-master\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.Main.resources
+C:\Users\Сергей\Downloads\OneDrive-13_05-master\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.MyBrowser.resources
+C:\Users\Сергей\Downloads\OneDrive-13_05-master\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.Properties.Resources.resources
+C:\Users\Сергей\Downloads\OneDrive-13_05-master\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.OpenSecurity.resources
+C:\Users\Сергей\Downloads\OneDrive-13_05-master\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.csproj.GenerateResource.Cache
+C:\Users\User\Documents\OneDrive-22_05-master\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\bin\Debug\OneDrive.exe.config
+C:\Users\User\Documents\OneDrive-22_05-master\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.exe
+C:\Users\User\Documents\OneDrive-22_05-master\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.pdb
+C:\Users\User\Documents\OneDrive-22_05-master\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\OneDrive-22_05-master\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.CreateSecurity.resources
+C:\Users\User\Documents\OneDrive-22_05-master\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.Main.resources
+C:\Users\User\Documents\OneDrive-22_05-master\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.MyBrowser.resources
+C:\Users\User\Documents\OneDrive-22_05-master\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.Properties.Resources.resources
+C:\Users\User\Documents\OneDrive-22_05-master\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.OpenSecurity.resources
+C:\Users\User\Documents\OneDrive-22_05-master\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.csproj.GenerateResource.Cache
+C:\Users\User\Documents\OneDrive-22_05-master\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\bin\Debug\OneDrive.exe
+C:\Users\User\Documents\OneDrive-22_05-master\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\bin\Debug\OneDrive.pdb
+C:\Users\User\Documents\OneDrive-22_05-master\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\bin\Debug\Microsoft.Live.dll
+C:\Users\User\Desktop\OneDrive-22_05-master\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\bin\Debug\OneDrive.exe.config
+C:\Users\User\Desktop\OneDrive-22_05-master\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.exe
+C:\Users\User\Desktop\OneDrive-22_05-master\OneDrive-8_05-master\OneDrive-8.05-master\OneDrive\obj\Debug\OneDrive.pdb
